@@ -53,9 +53,9 @@ The application consists of a **Go (Golang)** backend that simulates real-time d
 
 ## ⚙️ Getting Started
 
-You can run the application either using **Docker Compose** (recommended) or **manually**.
+You can run the application either using **Docker Compose**  or **manually**.
 
-### Option A: Running with Docker Compose (Recommended & Fastest)
+### Option A: Running with Docker Compose
 
 Make sure you have Docker and Docker Compose installed on your system.
 
