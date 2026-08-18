@@ -61,8 +61,8 @@ Make sure you have Docker and Docker Compose installed on your system.
 
 1. **Clone the repository** (or navigate to the workspace root):
    ```bash
-   git clone <your-repository-url>
-   cd iot-gateway-telemetry
+   git clone https://github.com/ankurkushwaha809/iot-gateway-telemetry-dashboard.git
+   cd iot-gateway-telemetry-dashboard
    ```
 
 2. **Spin up the containers**:
